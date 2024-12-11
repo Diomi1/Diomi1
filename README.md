@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer%20&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer%20&center=true&width=380&height=45">
 	</a>
 </p>
 
